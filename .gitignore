@@ -1,0 +1,15 @@
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.py[cod]
+Resume.csv
+resume.csv
+data/
+models/
+training/
+tests/
